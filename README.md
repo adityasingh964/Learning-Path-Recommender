@@ -1,4 +1,4 @@
-📚 Learning Path Recommender AI 
+#📚 Learning Path Recommender AI 
 
 An AI-powered learning roadmap generator that creates personalized learning paths based on a user’s goals, skill level, and available time — with a unique feature called Career Simulation Mode, where the user learns through real-world job-like tasks.
 
