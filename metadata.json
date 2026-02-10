@@ -1,0 +1,5 @@
+{
+  "name": "LuminaPath - AI Educational Planner",
+  "description": "An intelligent educational agent that analyzes course catalogs and student progress to generate highly personalized, optimized learning paths.",
+  "requestFramePermissions": []
+}
